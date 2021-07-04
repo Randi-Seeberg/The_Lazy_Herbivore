@@ -1,0 +1,1 @@
+print("Welcome to Healthy Dinner Solutions for the Lazy Herbivore")
